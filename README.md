@@ -1,2 +1,1 @@
-# system-design
-System design
+# System Design
